@@ -1,1 +1,2 @@
-Hej Anton!!
+Tjolahopp Anton!!
+Det är kul med git!
